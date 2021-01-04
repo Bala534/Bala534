@@ -40,7 +40,7 @@
 
 ### Database
 
-<img align="left" alt = "MongoDB" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png"/>
+<img align="left" alt = "MongoDB" width="50px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png"/>
 <img align="left" alt = "MySQL" src="https://img.icons8.com/ios-filled/50/008080/mysql-logo.png"/>
 
 <br/>
