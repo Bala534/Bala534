@@ -62,6 +62,7 @@
 
   <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=dracula" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=dracula&layout=compact" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&" alt="Bala534" /></p>
   
 [twitter]: https://twitter.com/BalaMah12687138?s=09
 [instagram]: https://instagram.com/balamahesh.ch
