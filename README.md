@@ -50,10 +50,19 @@
 
 ### Connect with me:
 
-<img width='50px' src='https://help.twitter.com/content/dam/help-twitter/brand/logo.png'><a href='https://twitter.com/BalaMah12687138?s=09'>< />
+[<img src="https://img.icons8.com/android/24/1DA1F2/twitter.png"/>][twitter]
 [<img src="https://img.icons8.com/android/24/2867B2/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ---
+
+  :zap: Github Stats
+
+  <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=dracula&layout=compact" />
+  
+[twitter]: https://twitter.com/BalaMah12687138?s=09
+[instagram]: https://instagram.com/balamahesh.ch
+[linkedin]: https://www.linkedin.com/in/bala-mahesh-27330b200
