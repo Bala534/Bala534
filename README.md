@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahesh 👋
-
-<!--
-**Bala534/Bala534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Bala534" alt="Bala534" /> 
+</p>
 
 Here are some ideas to get you started:
 
