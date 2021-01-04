@@ -38,10 +38,22 @@
 <br/>
 <br/>
 
-### Database
+### Databases:
 
 <img align="left" alt = "MongoDB" width="50px" src="https://miro.medium.com/max/640/1*-ivYkzeuYJedPKdEdfnNlg.png"/>
 <img align="left" alt = "MySQL" src="https://img.icons8.com/ios-filled/50/008080/mysql-logo.png"/>
 
 <br/>
 <br/>
+
+---
+
+### Connect with me:
+
+[<img src="https://img.icons8.com/android/24/1DA1F2/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/android/24/2867B2/linkedin.png"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
