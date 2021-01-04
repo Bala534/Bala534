@@ -50,7 +50,7 @@
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/android/24/1DA1F2/twitter.png"/>][twitter]
+[<img src="https://twitter.com/BalaMah12687138?s=09"/>][twitter]
 [<img src="https://img.icons8.com/android/24/2867B2/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
