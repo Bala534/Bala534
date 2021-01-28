@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=Bala534" alt="Bala534" /> 
 </p>
 
-![alt text](https://raw.githubusercontent.com/9515391831/SimplePortfolio/main/2021-01-28%20(2).png)
-
 ### I'm a Web Developer and Machine Learner!
 
 - 🌱 I’m currently learning everything
