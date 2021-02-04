@@ -1,6 +1,6 @@
 # Hi there, I'm Mahesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
-<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align='center>
+<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align='center'>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Bala534" alt="Bala534" /> 
 </p>
