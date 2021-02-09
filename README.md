@@ -4,7 +4,6 @@
 </p>
 
 <br>
-<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" align='center'>
 
 ![alt text](https://raw.githubusercontent.com/9515391831/SimplePortfolio/main/2021-01-28%20(3).png)
 
