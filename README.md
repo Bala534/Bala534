@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=Bala534" alt="Bala534" /> 
 </p>
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 <br>
 
 ![alt text](https://raw.githubusercontent.com/9515391831/SimplePortfolio/main/2021-01-28%20(3).png)
@@ -35,11 +37,6 @@
 
   :zap: Github Stats
 
-  <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=prussian" />
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=prussian&layout=compact" />
-  <br>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&theme=prussian" alt="Bala534" />
   
 [twitter]: https://twitter.com/BalaMah12687138?s=09
 [youtube]: https://www.youtube.com/channel/UCSa3rqufXOZ-COYonTIdWqg
@@ -48,7 +45,7 @@
 
 <br>
 
-
 [![Bala's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bala534&theme=xcode)](https://git.io/Bala534)
    <br />
    <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bala534&theme=prussian&hide_border=true)](https://git.io/streak-stats)
