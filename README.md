@@ -1,4 +1,4 @@
-# Hi there, I'm Mahesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hey, I'm Mahesh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Bala534" alt="Bala534" /> 
 </p>
