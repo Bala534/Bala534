@@ -44,6 +44,8 @@
 [linkedin]: https://www.linkedin.com/in/bala-mahesh-27330b200
 [gmail]: https://gmail.com
 <br>
+
+
 [![Bala's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bala534&theme=xcode)](https://git.io/Bala534)
    <br />
    <br />
