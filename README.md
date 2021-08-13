@@ -37,7 +37,7 @@
 
   <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=dracula" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=dracula&layout=compact" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&theme=dracula" alt="Bala534" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&theme=prussian" alt="Bala534" />
   
 [twitter]: https://twitter.com/BalaMah12687138?s=09
 [youtube]: https://www.youtube.com/channel/UCSa3rqufXOZ-COYonTIdWqg
@@ -45,8 +45,5 @@
 [gmail]: https://gmail.com
 
 [![Bala's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bala534&theme=xcode)](https://git.io/Bala534)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bala534&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
