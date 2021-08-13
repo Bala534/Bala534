@@ -35,8 +35,8 @@
 
   :zap: Github Stats
 
-  <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=dracula" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=dracula&layout=compact" />
+  <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=prussian" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=prussian&layout=compact" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&theme=prussian" alt="Bala534" />
   
 [twitter]: https://twitter.com/BalaMah12687138?s=09
