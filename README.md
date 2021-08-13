@@ -36,13 +36,16 @@
   :zap: Github Stats
 
   <img align="left" alt="Mahesh's Github Status" src="https://github-readme-stats.vercel.app/api?username=Bala534&show_icons=true&hide_border=true&theme=prussian" />
+  <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala534&theme=prussian&layout=compact" />
+  <br>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bala534&theme=prussian" alt="Bala534" />
   
 [twitter]: https://twitter.com/BalaMah12687138?s=09
 [youtube]: https://www.youtube.com/channel/UCSa3rqufXOZ-COYonTIdWqg
 [linkedin]: https://www.linkedin.com/in/bala-mahesh-27330b200
 [gmail]: https://gmail.com
+
 <br>
 
 
