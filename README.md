@@ -43,3 +43,11 @@
 [youtube]: https://www.youtube.com/channel/UCSa3rqufXOZ-COYonTIdWqg
 [linkedin]: https://www.linkedin.com/in/bala-mahesh-27330b200
 [gmail]: https://gmail.com
+
+[![Bala's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bala534&theme=xcode)](https://git.io/Bala534)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bala534&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
+   ![Skyline](https://github.com/Bala534/Bala534/blob/master/github-metrics.svg)
