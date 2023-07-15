@@ -36,7 +36,6 @@
 
 <br>
 
-[![Bala's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bala534&theme=xcode)](https://git.io/Bala534)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bala534&theme=prussian&hide_border=true)](https://git.io/streak-stats)
