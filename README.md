@@ -7,15 +7,6 @@
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/9515391831/SimplePortfolio/main/2021-01-28%20(3).png)
-
-### I'm a Web Developer and Machine Learner!
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on web development projects
-- 💬 Ask me about Web Development and Machine Learning
-- ⚡ Fun fact: I love to develop new things
-
 ---
 
 <h3>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
